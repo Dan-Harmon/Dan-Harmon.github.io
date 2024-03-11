@@ -1,7 +1,16 @@
+---
+title: home
+layout: default
+---
+
 <p><b>Daniel Harmon</b> -- visionary, genius, looks cute in cardigans</p>
 
 <p><a [routerLink]="['/about']">about</a> / <a [routerLink]="['/contact']">contact</a> / <a>subscribe</a></p>
 
 <ul>
-    
+    {% for post in site.posts %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </li>
+    {% endfor %}
 </ul>
