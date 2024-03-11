@@ -1,3 +1,3 @@
-Okay if I do this is everything going to work?
+**Daniel Harmon** -- visionary, genius, looks cute in cardigans
 
-Yes please big daddy?
+[about](https://dan-harmon.github.io/about) / [contact](https://dan-harmon.github.io/contact) / subscribe
