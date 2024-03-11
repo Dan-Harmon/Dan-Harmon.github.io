@@ -1,3 +1,8 @@
+---
+title: contact
+layout: default
+---
+
 You can find me elsewhere at these relevant links:
 
 - [GitHub](https://github.com/Dan-Harmon)
