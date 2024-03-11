@@ -46,3 +46,10 @@ font-size: 20px;
 margin-top: 8px;
 margin-bottom: 15px;
 }
+
+.links {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px;
+  border-color: black;
+}
