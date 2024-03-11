@@ -48,10 +48,10 @@ margin-bottom: 15px;
 }
 
 .closeness {
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 7px;
+  margin-bottom: 12px;
 }
 
-.bottomBar {
-  border-bottom-width: thin;
+.boxed-like-a-fish {
+  max-width: 700;
 }

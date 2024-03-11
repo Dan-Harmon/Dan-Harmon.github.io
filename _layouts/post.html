@@ -3,6 +3,6 @@ layout: default
 ---
     
     <p class="tag"><b>{{ page.date | date_to_string }} [ {{ page.tag }} ]</b></p>
-    <h3 class="blogTitle">{{ page.title }}</h3>
+    <h2 class="blogTitle closeness">{{ page.title }}</h2>
 
-    <p>{{ content }}</p>   
+    <div class="main"><p>{{ content }}</p></div>   
