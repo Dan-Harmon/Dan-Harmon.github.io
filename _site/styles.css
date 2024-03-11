@@ -59,3 +59,11 @@ margin-bottom: 15px;
 a {
   color: black;
 }
+
+.blogTag {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  color: darkgray;
+  font-size: 2px;
+  }
