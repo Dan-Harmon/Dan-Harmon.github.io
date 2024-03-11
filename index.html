@@ -5,12 +5,14 @@ layout: default
 
 <p><b>Daniel Harmon</b> -- visionary, genius, looks cute in cardigans</p>
 
-<p><a href="/about.html">about</a> / <a href="/contact.html">contact</a> / <a>subscribe</a></p>
+<p class="links"><a href="/about.html">about</a> / <a href="/contact.html">contact</a> / <a>subscribe</a></p>
 
 <ul>
     {% for post in site.posts %}
       <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <a href="{{ post.url }}" class="title"><b>{{ post.title }}</b></a>
+        <p class="tag"><b>{{ post.date | date_to_string }} [ {{post.tag}} ]</b></p>
       </li>
     {% endfor %}
 </ul>
+

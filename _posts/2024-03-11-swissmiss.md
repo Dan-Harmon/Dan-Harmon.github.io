@@ -1,8 +1,7 @@
 ---
 layout: post
 author: daniel
-
-
+tag: lean
 ---
 
 swissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissyswissymissy
