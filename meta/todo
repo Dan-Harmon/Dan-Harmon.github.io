@@ -1,11 +1,11 @@
 External:
-    - format links
-    - just stylize
+    - setup latex
+    - images aint finna load right
+
 
 Internal:
-    - setup latex
-    - get new domain
-    - the blogs generate with doubled paragraph tags
-    
+    - still some fucky dns stuff happening
+    - the domain extensions for blogs are funky
+
 
 
