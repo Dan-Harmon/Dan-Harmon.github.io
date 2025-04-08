@@ -1,8 +1,10 @@
+- name: index
+  link: /index.html
 - name: about
   link: /about.html
 - name: posts
   link: /posts.html
 - name: books
   link: /books.html
-- name: notes
-  link: /notes.html
+- name: other
+  link: /other.html
