@@ -1,8 +1,4 @@
 External:
-    - setup latex
-    - images might not all fit?
-    - add a favicon and a small footer with your name, year, and maybe GitHub/email.
-
     - implement css classes for everything
 
 Internal:
@@ -10,5 +6,6 @@ Internal:
     - other.... is messy. could be notes and quotes as a different setion, I dunno
     - put contact section back in?
     - need to implement blogs
-
+        - setup latex
+        - images might not all fit?
 
