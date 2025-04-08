@@ -1,7 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 body {
+  background-color: "#F9F9F9";
   font-family: 'Be Vietnam Pro', sans-serif;
 }
+
 :root {
   --primary-color: #605DC8;
   --secondary-color: #8B89E6;
@@ -9,43 +11,10 @@ body {
   --shadow-color: #E8E8E8;
 }
 
-button.primary {
-  padding: 10px;
-  border: solid 1px var(--primary-color);
-  background: var(--primary-color);
-  color: white;
-  border-radius: 8px;
-}
-
 .main {
-  width: 600px;
+  width: 750px;
   margin-left: auto;
   margin-right: auto;
-}
-
-.title {
-text-decoration: none;
-color: rgb(0, 145, 255);
-}
-
-.blogLink {
-font-size: 18px;
-text-decoration: none;
-color: black
-}
-
-.tag {
-padding-top: 0px;
-margin-top: 0px;
-margin-bottom: 20px;
-color: darkgray;
-font-size: 15px;
-}
-
-.blogTitle {
-font-size: 20px;
-margin-top: 8px;
-margin-bottom: 15px;
 }
 
 .closeness {
@@ -53,18 +22,6 @@ margin-bottom: 15px;
   margin-bottom: 20px;
 }
 
-.boxed-like-a-fish {
-  max-width: 600;
-  word-wrap: break-word;
-}
-
 a {
-  color: black;
+  color: #0077aa;
 }
-
-.blogTag {
-  padding-top: 0px;
-  margin-top: 0px;
-  margin-bottom: 2px;
-  color: darkgray;
-  }
