@@ -1,5 +1,7 @@
 External:
     - implement css classes for everything
+    - dark mode toggle?
+    - print-friendly pages?
 
 Internal:
     - setup tags so that blogs and books are searchable
