@@ -1,17 +1,14 @@
 External:
-    - not enough space between top of page annnnnd the title
     - setup latex
     - images might not all fit?
     - add a favicon and a small footer with your name, year, and maybe GitHub/email.
-    - put contact section back in
-    - other.... is messy. could be notes and quotes as a different setion, I dunno
-    - need to make goddamn blogs
 
-    - i dunno man, figure out how to make it look prettier or something? Go back through and mess with all the css
-
+    - implement css classes for everything
 
 Internal:
     - setup tags so that blogs and books are searchable
-
+    - other.... is messy. could be notes and quotes as a different setion, I dunno
+    - put contact section back in?
+    - need to implement blogs
 
 
