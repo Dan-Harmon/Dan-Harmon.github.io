@@ -1,6 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+head {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
 body {
   background-color: "#F9F9F9";
+  color: #333;
   font-family: 'Be Vietnam Pro', sans-serif;
 }
 
@@ -12,7 +20,8 @@ body {
 }
 
 .main {
-  width: 750px;
+  width: 600px;
+  max-width: 750px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -24,4 +33,8 @@ body {
 
 a {
   color: #0077aa;
+}
+
+highlighted {
+  color: slategray
 }
