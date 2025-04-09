@@ -10,4 +10,5 @@ Internal:
     - need to implement blogs
         - setup latex
         - images might not all fit?
+    - Fix the books so that the month blocks are store in a separate file an the books.html just gets and lists them, exactly like the blogs
 
